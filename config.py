@@ -1,4 +1,4 @@
-admin = 'rockstar984'
-bot_token = "5578817560:AAFthnpCr1QC0_wlAObLZmubDjDDdyPwQII"
+admin = 'nuevoss01'
+bot_token = "5472171484:AAHApMIfLndWweLfWB3_vXbhs7G135joqyQ"
 
-groupid= -1001728956224
+groupid= -684078191
